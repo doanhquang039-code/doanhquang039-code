@@ -1,38 +1,80 @@
 <h1 align="center">Hi there, I'm Doanhnocode 👋</h1>
 
 <p align="center">
-  <em>Passionate Software Developer | Lifelong Learner</em>
+  <em>Passionate Software Developer | Lifelong Learner | Building things that matter</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=doanhquang039-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Sinh viên ngành Công nghệ Thông tin
-- 💡 Đam mê xây dựng các ứng dụng thực tế
-- 🌱 Đang học và phát triển kỹ năng mỗi ngày
-- 🇻🇳 Based in Vietnam
+- 🎓 I'm a **Computer Science student** passionate about software development
+- 💻 I love building **web apps, REST APIs, and mobile applications**
+- 🌱 Currently improving my skills in **Spring Boot, Node.js & Flutter**
+- 🔍 Always curious, always learning something new every day
+- 🚀 Dream: *Build products that solve real-world problems*
+- 🇻🇳 Based in **Vietnam**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Frontend & Runtime**
+**Frontend**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Mobile**
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Tools**
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🏢 HR Management System | Spring Boot, MySQL | Human resource management system |
+| 📚 Library System | Java | Book borrowing & management system |
+| 🌐 NodeJS Blog | Node.js, EJS | Personal blog built with NodeJS |
+| 🏨 Tour Hotel | PHP, Blade | Hotel & tour booking website |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doanhquang039-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanhquang039-code&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
 
 ---
 
@@ -40,13 +82,22 @@
 
 <p>
   <a href="mailto:doanhquang039@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-doanhquang039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p>
+  <a href="https://zalo.me/0373542982">
+    <img src="https://img.shields.io/badge/Zalo-0373542982-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+  </a>
+</p>
+<p>
   <a href="https://github.com/doanhquang039-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-doanhquang039--code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ Feel free to explore my repositories and leave a star if you find something useful!</p>
+<p align="center">
+  ⭐ <em>Feel free to explore my repositories and leave a star if you find something useful!</em> ⭐
+</p>
