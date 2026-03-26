@@ -15,6 +15,7 @@
 - 🎓 I'm a **Computer Science student** passionate about software development
 - 💻 I love building **web apps, REST APIs, and mobile applications**
 - 🌱 Currently improving my skills in **Spring Boot, Node.js & Flutter**
+- ☁️ Aspiring to become a **DevOps & Cloud Engineer** in the future
 - 🔍 Always curious, always learning something new every day
 - 🚀 Dream: *Build products that solve real-world problems*
 - 🇻🇳 Based in **Vietnam**
@@ -29,6 +30,8 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Frontend**
 
@@ -45,7 +48,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Tools & DevOps**
 
@@ -60,12 +63,67 @@
 
 ## 🚀 Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🏢 HR Management System | Spring Boot, MySQL | Human resource management system |
-| 📚 Library System | Java | Book borrowing & management system |
-| 🌐 NodeJS Blog | Node.js, EJS | Personal blog built with NodeJS |
-| 🏨 Tour Hotel | PHP, Blade | Hotel & tour booking website |
+<table>
+  <thead>
+    <tr>
+      <th>🗂️ Project</th>
+      <th>⚙️ Tech Stack</th>
+      <th>📝 Description</th>
+      <th>🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🏢 HR Management System</td>
+      <td>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+      </td>
+      <td>Human resource management system with Spring Security & Spring Cloud</td>
+      <td><a href="https://github.com/doanhquang039-code/hr-managerment-system">⭐ View</a></td>
+    </tr>
+    <tr>
+      <td>📚 Library System</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      </td>
+      <td>Desktop app for book borrowing & management</td>
+      <td><a href="https://github.com/doanhquang039-code/libraliry">⭐ View</a></td>
+    </tr>
+    <tr>
+      <td>🌐 NodeJS Blog</td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </td>
+      <td>Personal blog platform built with NodeJS & Cloudinary</td>
+      <td><a href="https://github.com/doanhquang039-code/node-my-blog">⭐ View</a></td>
+    </tr>
+    <tr>
+      <td>🏨 Tour Hotel</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP%2FServlet-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </td>
+      <td>Hotel & tour booking website using Java Servlet JSP</td>
+      <td><a href="https://github.com/doanhquang039-code/TourHotel">⭐ View</a></td>
+    </tr>
+    <tr>
+      <td>🖥️ ADC Software</td>
+      <td>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      </td>
+      <td>Desktop software built with C# .NET</td>
+      <td><a href="https://github.com/doanhquang039-code/C-ADCSoftWare">⭐ View</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -76,21 +134,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanhquang039-code&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doanhquang039-code&theme=tokyonight&hide_border=true" width="55%"/>
+</p>
+
 ---
 
 ## 📬 Contact Me
 
-<p>
+<p align="center">
   <a href="mailto:doanhquang039@gmail.com">
-    <img src="https://img.shields.io/badge/Email-doanhquang039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-doanhquang039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-<p>
+  &nbsp;
   <a href="https://zalo.me/0373542982">
     <img src="https://img.shields.io/badge/Zalo-0373542982-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
   </a>
-</p>
-<p>
+  &nbsp;
   <a href="https://github.com/doanhquang039-code">
     <img src="https://img.shields.io/badge/GitHub-doanhquang039--code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
