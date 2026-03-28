@@ -147,7 +147,7 @@ Tools & DevOps
 ---
 
 ## 📬 Contact Me
-
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Doanhnocode&theme=dark)](https://leetcode.com/u/Doanhnocode/)
 <p align="center">
   <a href="mailto:doanhquang039@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-doanhquang039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
