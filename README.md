@@ -133,7 +133,7 @@ Tools & DevOps
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doanhquang039-code&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -141,13 +141,15 @@ Tools & DevOps
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doanhquang039-code&theme=tokyonight&hide_border=true" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doanhquang039-code&theme=tokyonight&hide_border=true" width="48%"/>
+  <a href="https://leetcode.com/u/Doanhnocode/">
+    <img src="https://leetcard.jacoblin.cool/Doanhnocode?theme=dark" width="48%"/>
+  </a>
 </p>
-
 ---
 
 ## 📬 Contact Me
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Doanhnocode&theme=dark)](https://leetcode.com/u/Doanhnocode/)
+
 <p align="center">
   <a href="mailto:doanhquang039@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-doanhquang039@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
