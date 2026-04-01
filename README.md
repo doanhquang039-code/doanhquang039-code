@@ -99,6 +99,20 @@ Tools & DevOps
       <td>Desktop app for book borrowing & management</td>
       <td><a href="https://github.com/doanhquang039-code/libraliry">⭐ View</a></td>
     </tr>
+<tr>
+      <td><b>Linkky</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </td>
+      <td>Containerized desktop app for book management</td>
+      <td>
+        <a href="https://github.com/doanhquang039-code/linkly">
+          <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="View on GitHub"/>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>🌐 NodeJS Blog</td>
       <td>
