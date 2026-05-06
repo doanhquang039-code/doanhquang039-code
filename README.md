@@ -14,7 +14,8 @@
 
 - 🎓 I'm a **Computer Science student** passionate about software development
 - 💻 I love building **web apps, REST APIs, and mobile applications**
-- 🌱 Currently improving my skills in **Spring Boot, Node.js & Flutter**
+- 🌱 Currently improving my skills in **Spring Boot, Node.js, Flutter & AI/Python**
+- 🤖 Exploring **AI/ML** with Python — building smart apps using LLMs & APIs
 - ☁️ Aspiring to become a **DevOps & Cloud Engineer** in the future
 - 🔍 Always curious, always learning something new every day
 - 🚀 Dream: *Build products that solve real-world problems*
@@ -24,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-Backend
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -33,29 +34,47 @@ Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
---- 
-Frontend & Mobile
+
+---
+
+**AI & Python**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+**Frontend & Mobile**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ---
-Database
+
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 ---
-Tools & DevOps
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
 
 ---
 
@@ -71,15 +90,26 @@ Tools & DevOps
     </tr>
   </thead>
   <tbody>
-      <tr>
+    <tr>
       <td>App Flutter</td>
       <td>
         <img src="https://img.shields.io/badge/TypeScript-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flutter-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
         <img src="https://img.shields.io/badge/SQLServer-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </td>
-      <td>Personal blog platform built with NodeJS & Cloudinary</td>
+      <td>Expense tracker app with NestJS backend & Flutter mobile</td>
       <td><a href="https://github.com/doanhquang039-code/app">⭐ View</a></td>
+    </tr>
+    <tr>
+      <td>🤖 Learn AI</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </td>
+      <td>AI learning project using Python with OpenAI & Gemini APIs, LangChain integration</td>
+      <td><a href="https://github.com/doanhquang039-code/AI.py">⭐ View</a></td>
     </tr>
     <tr>
       <td>🏢 HR Management System</td>
@@ -101,19 +131,15 @@ Tools & DevOps
       <td>Desktop app for book borrowing & management</td>
       <td><a href="https://github.com/doanhquang039-code/libraliry">⭐ View</a></td>
     </tr>
-<tr>
+    <tr>
       <td><b>Linkky</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </td>
       <td>Containerized desktop app for book management</td>
-      <td>
-        <a href="https://github.com/doanhquang039-code/linkly">
-          <img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github" alt="View on GitHub"/>
-        </a>
-      </td>
+      <td><a href="https://github.com/doanhquang039-code/linkly">⭐ View</a></td>
     </tr>
     <tr>
       <td>🌐 NodeJS Blog</td>
@@ -162,6 +188,7 @@ Tools & DevOps
     <img src="https://leetcard.jacoblin.cool/Doanhnocode?theme=dark" width="48%"/>
   </a>
 </p>
+
 ---
 
 ## 📬 Contact Me
